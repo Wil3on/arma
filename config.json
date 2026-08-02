@@ -9,7 +9,7 @@
   },
   "rcon": {
     "address": "0.0.0.0",
-    "port": 19989,
+    "port": 19999,
     "password": "topsecretpw123",
     "permission": "monitor",
     "blacklist": [],
@@ -49,11 +49,6 @@
       {
         "modId": "5AAAC70D754245DD",
         "name": "Server Admin Tools",
-        "version": ""
-      },
-      {
-        "modId": "69A914278AF39762",
-        "name": "Casualz Admin Tools",
         "version": ""
       }
     ]
