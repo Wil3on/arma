@@ -19,10 +19,7 @@
     "name": "World Top Hyper Duber mumbber server",
     "password": "",
     "passwordAdmin": "YouNeverGuessIt",
-    "admins": [
-      "000000000000000000000000000",
-      "00000000000000000000000001"
-    ],
+    "admins": [],
     "scenarioId": "{ECC61978EDCC2B5A}Missions/23_Campaign.conf",
     "maxPlayers": 128,
     "visible": true,
@@ -58,7 +55,7 @@
         "modId": "69A914278AF39762",
         "name": "Casualz Admin Tools",
         "version": ""
-      },
+      }
     ]
   },
   "operating": {
